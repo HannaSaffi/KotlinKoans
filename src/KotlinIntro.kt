@@ -2,7 +2,7 @@ import java.lang.IllegalArgumentException
 class KotlinIntro {
     //Hello, world!
     fun start(): String {
-        return "OK try out 123"
+        return "OK"
     }
     // Named Arguments
     fun joinOptions(options: Collection<String>) =
